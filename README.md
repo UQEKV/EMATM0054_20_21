@@ -16,6 +16,7 @@
 <br><a href="">Check Point 2</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L8_Kinematics.ipynb">Labsheet 8: Kinematics</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L9_FiniteStateMachine.ipynb">Labsheet 9: Finite State Machine</a>
+<br><a href="">Check Point 3</a>
 
 ## Supplementary Labsheets
 
