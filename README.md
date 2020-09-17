@@ -15,7 +15,7 @@
 
 ## Coursework Materials
 
-<br><a href="">Coursework Specification</a>
+<a href="">Coursework Specification</a>
 <br><a href="">Example Assessment 1 Video</a>
 <br><a href="">Example Assessment 2 Experiments</a>
 
@@ -32,7 +32,7 @@ You should aim to work through all of the following core labsheets within the fi
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L4_LineFollowing.ipynb">Labsheet 4: Line Following</a>
 <br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/C1_Refactoring.ipynb">Check Point 1: Refactoring Code</a>
 <br>
-<br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L5_Encoders.ipynb">Labsheet 5: Line Encoders</a>
+<br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L5_Encoders.ipynb">Labsheet 5: Encoders</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L6_TimeAndSpeedEstimation.ipynb">Labsheet 6: Time and Speed Estimation</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L7_PID.ipynb">Labsheet 7: PID</a>
 <br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/C3_ThinkingClearly.ipynb">Check Point 2: Thinking Clearly</a>
