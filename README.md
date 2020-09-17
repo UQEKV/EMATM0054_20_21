@@ -10,9 +10,9 @@
 
 ## Core Labsheets
 
-You should aim to work through all of the following core labsheets within the first 6 weeks of this unit. These labsheets present exercises for you to develop skill with the robotic system Romi.
+You should aim to work through all of the following core labsheets within the first 6 weeks of this unit. These labsheets present exercises for you to develop skill with the robotic system "Romi".  The Supplementary Labsheets are not necessary to complete Assessment 1 to a high standard. 
 
-<br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L0_Troubleshooting.ipynb">Labsheet 0: Troubleshooting</a>
+<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L0_Troubleshooting.ipynb">Labsheet 0: Troubleshooting</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L1_MeetTheRomi.ipynb">Labsheet 1: Meet the Romi</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L2_MultiTaskingWithMillis.ipynb">Labsheet 2: Multi-tasking with Millis()</a>
 <br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/C0_Debugging.ipynb">Check Point 0: Debugging</a>
@@ -31,5 +31,7 @@ You should aim to work through all of the following core labsheets within the fi
 
 
 ## Supplementary Labsheets
+
+The following labsheets provide further information on using other peripheral avaiable on your Romi.  You should not need the supplementary labsheets to complete Assessment 1 to a high standard.  These labsheets may be beneficial for Assessment 2, depending on the experiment your group decides to design.
 
 
