@@ -15,8 +15,8 @@
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L5_Encoders.ipynb">Labsheet 5: Line Encoders</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L6_TimeAndSpeedEstimation.ipynb">Labsheet 6: Time and Speed Estimation</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L7_PID.ipynb">Labsheet 7: PID</a>
-<br>
 <br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/C2_LookingAhead.ipynb">Check Point 2: Looking Ahead</a>
+<br>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L8_Kinematics.ipynb">Labsheet 8: Kinematics</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L9_FiniteStateMachine.ipynb">Labsheet 9: Finite State Machine</a>
 <br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/C3_ThinkingClearly.ipynb">Check Point 3: Thinking Clearly</a>
