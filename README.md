@@ -10,6 +10,8 @@
 
 ## Core Labsheets
 
+You should aim to work through all of the following core labsheets within the first 6 weeks of this unit. These labsheets present exercises for you to develop skill with the robotic system Romi.
+
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L0_Troubleshooting.ipynb">Labsheet 0: Troubleshooting</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L1_MeetTheRomi.ipynb">Labsheet 1: Meet the Romi</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L2_MultiTaskingWithMillis.ipynb">Labsheet 2: Multi-tasking with Millis()</a>
