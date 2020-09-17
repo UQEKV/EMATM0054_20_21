@@ -5,8 +5,8 @@
 ## Coursework Materials
 
 <br><a href="">Coursework Specification</a>
-<br><a href="">Example CW1 Assessment Video</a>
-<br><a href="">Example CW2 Experiments</a>
+<br><a href="">Example Assessment 1 Video</a>
+<br><a href="">Example Assessment 2 Experiments</a>
 
 ## Core Labsheets
 
