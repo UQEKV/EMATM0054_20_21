@@ -2,7 +2,7 @@
 
 <a href="https://github.com/paulodowd/EMATM0054_20_21#unit-summary">Unit Summary</a>
 <br>
-<a href="https://github.com/paulodowd/EMATM0054_20_21#coursework-materials">Coursework Specification</a>
+<a href="https://github.com/paulodowd/EMATM0054_20_21#coursework-materials">Coursework Materials</a>
 <br>
 <a href="https://github.com/paulodowd/EMATM0054_20_21#core-labsheets">Core Labsheets</a>
 <br>
