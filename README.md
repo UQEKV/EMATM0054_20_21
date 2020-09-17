@@ -4,6 +4,9 @@
 
 ## Coursework Materials
 
+<br><a href="">Coursework Specification</a>
+<br><a href="">Example Experiments</a>
+
 ## Core Labsheets
 
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L0_Troubleshooting.ipynb">Labsheet 0: Troubleshooting</a>
@@ -25,4 +28,5 @@
 
 
 ## Supplementary Labsheets
+
 
