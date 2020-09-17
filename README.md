@@ -10,7 +10,7 @@
 
 ## Core Labsheets
 
-You should aim to work through all of the following core labsheets within the first 6 weeks of this unit. These labsheets present exercises for you to develop skill with the robotic system "Romi".  The Supplementary Labsheets are not necessary to complete Assessment 1 to a high standard.  These labsheets provide all of the core "ingredients" for your robotic system - but ultimately it is up to you to solve the final architecture of autonomous behaviour to successfully complete the line following challenge. 
+You should aim to work through all of the following core labsheets within the first 6 weeks of this unit. Ideally, you probably want to plan to keep the last 2 weeks (of 6) just to refine and integrate your final solution.  These labsheets present exercises for you to develop skill with the robotic system "Romi".  The Supplementary Labsheets are not necessary to complete Assessment 1 to a high standard.  These labsheets provide all of the core "ingredients" for your robotic system - but ultimately it is up to you to solve the final architecture of autonomous behaviour to successfully complete the line following challenge. 
 
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L0_Troubleshooting.ipynb">Labsheet 0: Troubleshooting</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L1_MeetTheRomi.ipynb">Labsheet 1: Meet the Romi</a>
@@ -34,4 +34,6 @@ You should aim to work through all of the following core labsheets within the fi
 
 The following labsheets provide further information on using other peripheral avaiable on your Romi.  You should not need the supplementary labsheets to complete Assessment 1 to a high standard.  These labsheets may be beneficial for Assessment 2, depending on the experiment your group decides to design.
 
+## Acknowledgements
 
+These materials were originally developed by both Dr. Martin Garrad and Dr. Paul O'Dowd in 2018.  They have been iteratively updated by Paul in the years since.  These teaching materials have been improved from the valuable feedback of students and teaching assistants.  
