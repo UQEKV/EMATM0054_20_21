@@ -22,7 +22,9 @@
 
 ## Core Labsheets
 
-You should aim to work through all of the following core labsheets within the first 6 weeks of this unit. Ideally, you probably want to plan to keep the last 2 weeks (of 6) just to refine and integrate your final solution.  These labsheets present exercises for you to develop skill with the robotic system "Romi".  The Supplementary Labsheets are not necessary to complete Assessment 1 to a high standard.  These labsheets provide all of the core "ingredients" for your robotic system - but ultimately it is up to you to solve the final architecture of autonomous behaviour to successfully complete the line following challenge. 
+As a guideline, previous students have averaged a sum total of 48 hours to cover the following core labsheet materials and assessment (6 weeks x 8 hours, a 10 credit unit).  This year (2020-2021) we have provisioned for 6 weeks x 16 hours (a 20 credit unit), expecting various interuptions from the COVID-19 pandemic. You may exeprience a small delay in receiving your kit, however, you should have ample time for focused study.  
+
+These labsheets present exercises for you to develop skill with the robotic system "Romi".  The Supplementary Labsheets are not necessary to complete Assessment 1 to a high standard.  These labsheets provide all of the core "ingredients" for your robotic system - but ultimately it is up to you to solve the final architecture of autonomous behaviour to successfully complete the line following challenge. You should anticipate that the final process of integrating and testing your solution will take a significant amount of time - therefore, do not leave the entire coursework until the deadline to do.
 
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L0_Troubleshooting.ipynb">Labsheet 0: Troubleshooting</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L1_MeetTheRomi.ipynb">Labsheet 1: Meet the Romi</a>
