@@ -18,7 +18,7 @@
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Specifications/Coursework%20Specification.ipynb">Coursework Specification</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Specifications/Map_Specification.ipynb">Map Specification</a>
 <br>Code Stub for Romi&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/tree/master/Romi_CodeStub">(source)</a>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/raw/master/Zips/Romi_CodeStub.zip">(zip file)</a>
-<br><a href="">Example Assessment 1 Video</a>
+<a href="https://youtu.be/1KSfrGdXLC4">Video Example of Assessment 1</a><br>
 <br><a href="">Example Assessment 2 Experiments</a>
 
 ## Core Labsheets
