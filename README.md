@@ -28,6 +28,7 @@
 <br>
 <img src="https://github.com/paulodowd/EMATM0054_20_21/blob/master/images/banner1.JPG?raw=true"/>
 <br>
+
 ## Core Labsheets
 
 As a guideline, previous students have averaged a sum total of 48 hours to cover the following core labsheet materials and assessment 1 (6 weeks x 8 hours, an appropriate portion of a 10 credit unit).  This year (2020-2021) we have provisioned for 6 weeks x 16 hours (an appropriate portion of a 20 credit unit), expecting various interuptions from the COVID-19 pandemic, and with appropriate adjustments to the specification. You may exeprience a small delay in receiving your kit, however, you should have ample time for focused study.  Assessment 2 takes place in the remaining 6 weeks of the unit.
