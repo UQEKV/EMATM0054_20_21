@@ -1,5 +1,8 @@
 # EMATM0054: Robotic Systems
 
+<img src="https://github.com/paulodowd/EMATM0054_20_21/blob/master/images/banner4.JPG?raw=true"/>
+<br><br>
+
 <a href="https://github.com/paulodowd/EMATM0054_20_21#unit-summary">Unit Summary</a>
 <br>
 <a href="https://github.com/paulodowd/EMATM0054_20_21#coursework-materials">Coursework Materials</a>
@@ -22,6 +25,9 @@
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG-VYf_NwHsJJlDfANaYLGz1UOFZIUE9OTUs5S1A1Wk83VTAyMUI1TzBYUy4u">Online self-assessment declaration</a><br>
 <a href="">Example Assessment 2 Experiments </a>
 
+<br>
+<img src="https://github.com/paulodowd/EMATM0054_20_21/blob/master/images/banner1.JPG?raw=true"/>
+<br>
 ## Core Labsheets
 
 As a guideline, previous students have averaged a sum total of 48 hours to cover the following core labsheet materials and assessment 1 (6 weeks x 8 hours, an appropriate portion of a 10 credit unit).  This year (2020-2021) we have provisioned for 6 weeks x 16 hours (an appropriate portion of a 20 credit unit), expecting various interuptions from the COVID-19 pandemic, and with appropriate adjustments to the specification. You may exeprience a small delay in receiving your kit, however, you should have ample time for focused study.  Assessment 2 takes place in the remaining 6 weeks of the unit.
@@ -53,3 +59,8 @@ The following labsheets provide further information on using other peripheral av
 ## Acknowledgements
 
 These materials were originally developed and tested by both Dr. Martin Garrad and Dr. Paul O'Dowd in 2018.  The materials have been iteratively updated by Paul in the years since.  We are grateful for the valuable feedback from students and teaching assistants.  We have typically provisioned and delivered this unit of study to 160 simultaneous students - this wouldn't be possible without a great team and community.  We are grateful to: the support, valuable input and critique from Prof. Arthur Richards & Prof. Seth Bullock; the support from school manager Evan Roberts; the always patient and friendly support of administrator Ann Foster; the patience of Emma Giddings in timetabling; supporting persons from tech. services such as Jude Bramton, Dominic Hardman, Daryl White and Christopher Cooper; and other members of the great team and community at the University of Bristol.
+
+<br>
+<img src="https://github.com/paulodowd/EMATM0054_20_21/blob/master/images/banner2.JPG?raw=true"/>
+<br>
+<a href="https://github.com/paulodowd/EMATM0054_20_21#ematm0054-robotic-systems">(back to top)</a>
