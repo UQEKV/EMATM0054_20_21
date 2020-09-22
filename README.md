@@ -3,6 +3,8 @@
 <img src="https://github.com/paulodowd/EMATM0054_20_21/blob/master/images/banner4.JPG?raw=true"/>
 <br><br>
 
+## Contents
+
 <a href="https://github.com/paulodowd/EMATM0054_20_21#unit-summary">Unit Summary</a>
 <br>
 <a href="https://github.com/paulodowd/EMATM0054_20_21#coursework-materials">Coursework Materials</a>
@@ -14,8 +16,10 @@
 <a href="https://github.com/paulodowd/EMATM0054_20_21#Acknowledgements">Acknowledgements</a>
 <br>
 
+<br><br>
 ## Unit Summary
 
+<br><br>
 ## Coursework Materials
 
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Specifications/Coursework%20Specification.ipynb">Coursework Specification</a>
