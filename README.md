@@ -65,6 +65,10 @@ It is advised that you first read through all labsheets before you begin working
 
 The following labsheets provide further information on using other peripheral avaiable on your Romi.  You should not need the supplementary labsheets to complete Assessment 1 to a high standard.  These labsheets may be beneficial for Assessment 2, depending on the experiment your group decides to design.
 
+<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL1_InterruptsAndTimers.ipynb">S. Labsheet 1: Interrupts and Timers</a><br>
+<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL2_ProximitySensor.ipynb">S. Labsheet 2: Proximity Sensor irs09a</a><br>
+<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL2_InertialSensors.ipynb">S. Labsheet 3: Inertial Sensors and Magenetometer</a><br>
+
 ## Acknowledgements
 
 These materials were originally developed and tested by both Dr. Martin Garrad and Dr. Paul O'Dowd in 2018.  The materials have been iteratively updated by Paul in the years since.  We are grateful for the valuable feedback from students and teaching assistants.  We have typically provisioned and delivered this unit of study to 160 simultaneous students - this wouldn't be possible without a great team and community.  We are grateful to: the support, valuable input and critique from Prof. Arthur Richards & Prof. Seth Bullock; the support from school manager Evan Roberts; the always patient and friendly support of administrator Ann Foster; the patience of Emma Giddings in timetabling; supporting persons from tech. services such as Jude Bramton, Dominic Hardman, Daryl White and Christopher Cooper; and other members of the great team and community at the University of Bristol.
