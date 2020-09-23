@@ -65,6 +65,7 @@ It is advised that you first read through all labsheets before you begin working
 
 The following labsheets provide further information on using other peripheral avaiable on your Romi.  You should not need the supplementary labsheets to complete Assessment 1 to a high standard.  These labsheets may be beneficial for Assessment 2, depending on the experiment your group decides to design.
 
+<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL0_MeasuringBatteryVoltage.ipynb">S. Labsheet 0: Measuring Battery Voltage</a><br>
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL1_InterruptsAndTimers.ipynb">S. Labsheet 1: Interrupts and Timers</a><br>
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL2_ProximitySensor.ipynb">S. Labsheet 2: Proximity Sensor irs09a</a><br>
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL2_InertialSensors.ipynb">S. Labsheet 3: Inertial Sensors and Magenetometer</a><br>
