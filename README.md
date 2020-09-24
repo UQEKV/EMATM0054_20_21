@@ -30,7 +30,6 @@
 <br>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21#core-labsheets">Core Labsheets</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21#supplementary-labsheets">Supplementary Labsheets</a>
-
 <br>
 <br><a href="https://youtu.be/1KSfrGdXLC4">Assessment 1: Video Example</a>
 <br><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG-VYf_NwHsJJlDfANaYLGz1UOFZIUE9OTUs5S1A1Wk83VTAyMUI1TzBYUy4u">Assessment 1: Online self-assessment declaration</a>
