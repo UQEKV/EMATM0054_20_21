@@ -67,7 +67,7 @@ The following labsheets provide further information on using other peripheral av
 
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL0_MeasuringBatteryVoltage.ipynb">S. Labsheet 0: Measuring Battery Voltage</a><br>
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL1_InterruptsAndTimers.ipynb">S. Labsheet 1: Interrupts and Timers</a><br>
-<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL2_ProximitySensor.ipynb">S. Labsheet 2: Proximity Sensor irs09a</a><br>
+<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL2_ProximitySensor.ipynb">S. Labsheet 2: Proximity and Ambient Light</a><br>
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL2_InertialSensors.ipynb">S. Labsheet 3: Inertial Sensors and Magenetometer</a><br>
 
 ## Acknowledgements
