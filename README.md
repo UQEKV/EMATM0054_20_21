@@ -24,6 +24,7 @@
 
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Specifications/Coursework%20Specification.ipynb">Coursework Specification</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Specifications/Map_Specification.ipynb">Map Specification</a>
+<br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Specifications/Code%20Standard.ipynb">Code Standard</a>
 <br>Code Stub for Romi&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/tree/master/Romi_CodeStub">(source)</a>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/raw/master/Zips/Romi_CodeStub.zip">(zip file)</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21#core-labsheets">Core Labsheets</a>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21#supplementary-labsheets">Supplementary Labsheets</a>
