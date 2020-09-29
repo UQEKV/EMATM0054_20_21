@@ -19,6 +19,15 @@
 <br><br>
 ## Unit Summary
 
+The offical rubric for this unit of study can be found at <a href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=EMATM0054">Unit Catalogue: EMATM0054</a>.
+
+The aim of this unit is to give you a "complete" experience of running a robotics experiment.  By the end of this unit, you will have written up a conference paper styled report, in which you present a study and results based on a robotic system.  This unit should:
+- serve as an introduction to robotics.
+- equip you with programming skills to develop microcontroller systems.
+- develop your analytical skills.
+- develop your communication skills.
+
+
 <br><br>
 ## Coursework Materials
 
