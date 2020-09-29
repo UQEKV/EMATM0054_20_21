@@ -59,7 +59,7 @@ It is advised that you first read through all labsheets before you begin working
 <br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/C0_Debugging.ipynb">Check Point 0: Debugging</a>
 <br>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L3_Motors.ipynb">Labsheet 3: Motors</a>
-<br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L4_LineFollowing.ipynb">Labsheet 4: Line Following</a>
+<br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L4_Linefollowing.ipynb">Labsheet 4: Line Following</a>
 <br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/C1_Refactoring.ipynb">Check Point 1: Refactoring Code</a>
 <br>
 <br><a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Core/L5_Encoders.ipynb">Labsheet 5: Encoders</a>
