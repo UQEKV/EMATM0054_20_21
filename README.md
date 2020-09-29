@@ -80,6 +80,24 @@ The following labsheets provide further information on using other peripheral av
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL2_ProximitySensor.ipynb">S. Labsheet 2: Proximity and Ambient Light</a><br>
 <a href="https://github.com/paulodowd/EMATM0054_20_21/blob/master/Labsheets/Supplementary/SL2_InertialSensors.ipynb">S. Labsheet 3: Inertial Sensors and Magnetometer</a><br>
 
+<br><br>
+## Useful External Resources
+
+The following resources are mentioned through the labsheets and it may be quicker to look here to find them again:
+
+<a href="https://www.pololu.com/docs/0J69/3.8">Polulu: Pin Mappings for the Romi</a><br>
+<a href="https://www.pololu.com/docs/0J69/5.2">Pololu: Guide to programming Romi + Troubleshooting</a><br>
+<a href="https://www.pololu.com/docs/0J69/all#9.1">Pololu: Fix when your cannot upload to Romi</a><br>
+<a href="https://www.st.com/resource/en/datasheet/vl6180x.pdf">VL1680X Datasheet</a><br>
+<a href="http://ww1.microchip.com/downloads/en/devicedoc/atmel-7766-8-bit-avr-atmega16u4-32u4_datasheet.pdf">Datasheet for the Atmega32u4</a><br>
+<a href="https://www.pololu.com/product/2737/specs">Pololu: Magnetometer Product Page and Resources</a><br>
+<a href="https://github.com/pololu/lis3mdl-arduino">Pololu: Magnetometer Arduino Library</a><br>
+<a href="https://www.pololu.com/product/2489">Pololu: VL1680X Product Page and Resources</a><br>
+<a href="https://github.com/pololu/vl6180x-arduino">Pololu: VL1680X Arduino Library</a><br>
+
+
+
+<br><br>
 ## Acknowledgements
 
 These materials were originally developed and tested by both Dr. Martin Garrad and Dr. Paul O'Dowd in 2018.  The materials have been iteratively updated by Paul in the years since.  We are grateful for the valuable feedback from students and teaching assistants.  We have typically provisioned and delivered this unit of study to 160 simultaneous students - this wouldn't be possible without a great team and community.  We are grateful to: the support, valuable input and critique from Prof. Arthur Richards & Prof. Seth Bullock; the support from school manager Evan Roberts; the always patient and friendly support of administrator Ann Foster; the patience of Emma Giddings in timetabling; supporting persons from tech. services such as Jude Bramton, Dominic Hardman, Daryl White and Christopher Cooper; and other members of the great team and community at the University of Bristol.
