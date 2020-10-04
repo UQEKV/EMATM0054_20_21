@@ -21,11 +21,12 @@
 
 The offical rubric for this unit of study can be found at <a href="https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=EMATM0054">Unit Catalogue: EMATM0054</a>.
 
-The aim of this unit is to give you a "complete" experience of running a robotics experiment.  By the end of this unit, you will have written up a conference paper styled report, in which you present a study and results based on a robotic system.  This unit should:
+The aim of this unit is to give you a "complete" experience of running a scientific robotics experiment.  By the end of this unit, you will have written up a conference paper styled report, in which you present a study and results based on a robotic system.  To get to that point, this unit builds up your skill to program and understand a small mobile robot called Romi.  The lectures and labsheets will help to familiarise you with the interesting challenges of robotic systems.  This unit will:
 - serve as an introduction to robotics.
 - equip you with programming skills to develop microcontroller systems.
 - develop your analytical skills.
 - develop your communication skills.
+- prepare you to present your own proposal, scientific argument, and credible results.
 
 
 <br><br>
@@ -100,7 +101,7 @@ The following resources are mentioned through the labsheets and it may be quicke
 <br><br>
 ## Acknowledgements
 
-These materials were originally developed and tested by both Dr. Martin Garrad and Dr. Paul O'Dowd in 2018.  The materials have been iteratively updated by Paul in the years since.  We are grateful for the valuable feedback from students and teaching assistants.  We have typically provisioned and delivered this unit of study to 160 simultaneous students - this wouldn't be possible without a great team and community.  We are grateful to: the support, valuable input and critique from Prof. Arthur Richards & Prof. Seth Bullock; the support from school manager Evan Roberts; the always patient and friendly support of administrator Ann Foster; the patience of Emma Giddings in timetabling; supporting persons from tech. services such as Jude Bramton, Dominic Hardman, Daryl White and Christopher Cooper; and other members of the great team and community at the University of Bristol.
+These materials were originally developed and tested by both Dr. Martin Garrad and Dr. Paul O'Dowd in 2018.  The materials have been iteratively updated by Paul in the years since.  We are grateful for the valuable feedback from students and teaching assistants.  We have typically provisioned and delivered this unit of study to 160 simultaneous students - this wouldn't be possible without a great team and community.  We are grateful to: the support, valuable input and critique from Prof. Arthur Richards & Prof. Seth Bullock; the support from school manager Evan Roberts; the always patient and friendly support of administrator Ann Foster; the patience of Emma Giddings in timetabling; support from the faculty of engineering technical services, including Jude Bramton, Dominic Hardman, Daryl White and Christopher Cooper.  Apologies to anyone I may have missed! (email me!)
 
 <br>
 <img src="https://github.com/paulodowd/EMATM0054_20_21/blob/master/images/banner2.JPG?raw=true"/>
